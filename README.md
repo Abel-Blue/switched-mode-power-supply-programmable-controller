@@ -1,5 +1,8 @@
 # Switched Mode Power Supply Programmable Controller 
 
+(For more info: [(SMPS) Medium Aritcle](https://medium.com/@Abel-Blue/switched-mode-power-supply-with-programmable-controller-61331fd68739))
+
+
 By definition, a switch mode power supply (SMPS) is a type of power supply that uses semiconductor switching techniques, rather than standard linear methods to provide the required output voltage. The basic switching converter consists of a power switching stage and a control circuit.
 
 (SMPS) is an electronic circuit that converts power using switching devices that are turned on and off at high frequencies, and storage components such as inductors or capacitors to supply power when the switching device is in its non-conduction state. Switching power supplies have high efficiency and are widely used in a variety of electronic equipment, including computers and other sensitive equipment requiring stable and efficient power supply.
@@ -38,3 +41,6 @@ Required Hardware
 - 2 x 100kΩ resistors
 
 ![smps](https://www.maximintegrated.com/content/dam/images/design/videos/2021/vid-recommended-troubleshooting-techniques-for-buck-smps-circuits.jpg)
+
+(For more info: [(SMPS) Medium Aritcle](https://medium.com/@Abel-Blue/switched-mode-power-supply-with-programmable-controller-61331fd68739))
+
